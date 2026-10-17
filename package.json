@@ -1,0 +1,23 @@
+{
+  "name": "sarvam-twilio-caller",
+  "version": "1.0.0",
+  "description": "Natural Indian-language conversational AI phone calling using Sarvam AI and Twilio Voice",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "call": "node src/call.js",
+    "sarvam": "node sarvam-chat.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "sarvamai": "^0.2.1",
+    "twilio": "^5.4.3",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
