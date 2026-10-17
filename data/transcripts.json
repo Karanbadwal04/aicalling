@@ -1,5 +1,153 @@
 [
   {
+    "id": "CAcc047702abbd70fce1c1bcb3e45d6df8",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T10:47:59.111Z",
+    "endedAt": "2026-10-17T10:50:22.667Z",
+    "durationSec": 133,
+    "language": "en-IN",
+    "speaker": "priya",
+    "avgLatencyMs": 2245,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T10:48:14.209Z",
+        "chatMs": 0,
+        "ttsMs": 4404,
+        "totalMs": 4404,
+        "audioUrl": "/audio/73d01505-3ef3-4f67-af78-f015b68a527a.wav"
+      },
+      {
+        "role": "user",
+        "text": "Hello.",
+        "timestamp": "2026-10-17T10:48:32.367Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Hey! Good to hear from you. What’s up?",
+        "timestamp": "2026-10-17T10:48:33.589Z",
+        "chatMs": 362,
+        "ttsMs": 858,
+        "totalMs": 1220,
+        "audioUrl": "/audio/b9a2f42d-2911-4ba8-af74-a47885dd4415.wav"
+      },
+      {
+        "role": "user",
+        "text": "How are you?",
+        "timestamp": "2026-10-17T10:48:43.362Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm doing pretty well, thanks for asking! How about you?",
+        "timestamp": "2026-10-17T10:48:44.937Z",
+        "chatMs": 311,
+        "ttsMs": 1264,
+        "totalMs": 1575,
+        "audioUrl": "/audio/c7278b46-d47f-4346-8c3b-c8d292d93e82.wav"
+      },
+      {
+        "role": "user",
+        "text": "I am also good.",
+        "timestamp": "2026-10-17T10:48:52.796Z"
+      },
+      {
+        "role": "assistant",
+        "text": "That's great to hear! What have you been up to lately?",
+        "timestamp": "2026-10-17T10:48:55.439Z",
+        "chatMs": 345,
+        "ttsMs": 2298,
+        "totalMs": 2643,
+        "audioUrl": "/audio/282d9fb6-fedf-428f-bed5-b4191877261f.wav"
+      },
+      {
+        "role": "user",
+        "text": "I am doing my work.",
+        "timestamp": "2026-10-17T10:49:11.515Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ah, the daily grind. Is it keeping you busy today?",
+        "timestamp": "2026-10-17T10:49:12.995Z",
+        "chatMs": 296,
+        "ttsMs": 1182,
+        "totalMs": 1478,
+        "audioUrl": "/audio/1ea12819-7fe7-4d3c-bbaa-90d3a1f95d7f.wav"
+      },
+      {
+        "role": "user",
+        "text": "Yes, if you want to come and do my work, I will be very happy.",
+        "timestamp": "2026-10-17T10:49:23.867Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, I wish I could, but I think I'd just make a mess of it! What kind of work are you stuck with?",
+        "timestamp": "2026-10-17T10:49:26.249Z",
+        "chatMs": 404,
+        "ttsMs": 1976,
+        "totalMs": 2380,
+        "audioUrl": "/audio/d0889172-e081-479a-8518-a9e6c36d8dc9.wav"
+      },
+      {
+        "role": "user",
+        "text": "If you miss my work then no then why I share with you.",
+        "timestamp": "2026-10-17T10:49:40.380Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Hey, I'm always here to listen! I just meant I can't actually do the physical work. So, what's bothering you about it?",
+        "timestamp": "2026-10-17T10:49:42.925Z",
+        "chatMs": 358,
+        "ttsMs": 2186,
+        "totalMs": 2544,
+        "audioUrl": "/audio/7ab811ad-7bcb-4b90-ab4e-13b61ee688a1.wav"
+      },
+      {
+        "role": "user",
+        "text": "I don't want to share with you.",
+        "timestamp": "2026-10-17T10:49:55.189Z"
+      },
+      {
+        "role": "assistant",
+        "text": "No worries at all, I totally get it. We can talk about something else if you want. What's on your mind right now?",
+        "timestamp": "2026-10-17T10:49:57.453Z",
+        "chatMs": 501,
+        "ttsMs": 1761,
+        "totalMs": 2262,
+        "audioUrl": "/audio/550aa417-aefe-42ae-bd19-4851bc8396d3.wav"
+      },
+      {
+        "role": "user",
+        "text": "Manoranjan want to talk to you anymore",
+        "timestamp": "2026-10-17T10:50:07.694Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh, I'm sorry to hear that. Do you want to talk about what happened?",
+        "timestamp": "2026-10-17T10:50:09.479Z",
+        "chatMs": 288,
+        "ttsMs": 1496,
+        "totalMs": 1784,
+        "audioUrl": "/audio/3b07523a-4239-4a7d-b241-563099a6166c.wav"
+      },
+      {
+        "role": "user",
+        "text": "No.",
+        "timestamp": "2026-10-17T10:50:17.251Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Alright, no problem. Let me know if you change your mind. Anything else on your mind right now?",
+        "timestamp": "2026-10-17T10:50:19.415Z",
+        "chatMs": 333,
+        "ttsMs": 1829,
+        "totalMs": 2162,
+        "audioUrl": "/audio/3f58c8ac-3471-4bac-ab16-9b7d970744de.wav"
+      }
+    ]
+  },
+  {
     "id": "CA8c398775061b968b050cbc5697a96a66",
     "friendNumber": "+919465802410",
     "friendName": "Friend",
