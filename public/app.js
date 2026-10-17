@@ -270,7 +270,7 @@ function renderTurn(turn) {
   }
 
   turnEl.innerHTML = `
-    <div class="turn-avatar">${isAssistant ? '🤖' : '👤'}</div>
+    <div class="turn-avatar">${isAssistant ? 'AI' : 'You'}</div>
     <div class="turn-bubble">
       <div class="turn-text">${escapeHtml(turn.text)}</div>
       <div class="turn-footer">${footerHtml}</div>
@@ -449,7 +449,7 @@ function selectHistoryCall(id) {
     }
 
     turnEl.innerHTML = `
-      <div class="turn-avatar">${isAssistant ? '🤖' : '👤'}</div>
+      <div class="turn-avatar">${isAssistant ? 'AI' : 'You'}</div>
       <div class="turn-bubble">
         <div class="turn-text">${escapeHtml(turn.text)}</div>
         <div class="turn-footer">${footer}</div>
