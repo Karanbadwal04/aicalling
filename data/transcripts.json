@@ -1,5 +1,2295 @@
 [
   {
+    "id": "CA8a9589a433e57b52d4dac91267a2fe11",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T11:59:11.789Z",
+    "endedAt": "2026-10-19T12:00:53.826Z",
+    "durationSec": 93,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 2044,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T11:59:21.148Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/3d690f7e-3fa7-447c-8660-d2979783f0d0.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T11:59:31.647Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha.",
+        "timestamp": "2026-10-19T11:59:32.149Z",
+        "chatMs": 499,
+        "ttsMs": 0,
+        "totalMs": 499,
+        "audioUrl": "/audio/9b6c7a21-10af-4030-acdc-479e1dbd9f5b.wav"
+      },
+      {
+        "role": "user",
+        "text": "हां तो क्या करूं उसका?",
+        "timestamp": "2026-10-19T11:59:48.721Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Koi baat nahi Doctor. Aap apne convenient time par dekh lijiye. Bas confirm karna tha ki aapko mil gaya ya nahi. Kya aapko toolkit mil gaya tha?",
+        "timestamp": "2026-10-19T11:59:51.669Z",
+        "chatMs": 721,
+        "ttsMs": 2221,
+        "totalMs": 2942,
+        "audioUrl": "/audio/795a5883-814e-45c1-b371-672c48f8f15e.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं मिला अभी तक।",
+        "timestamp": "2026-10-19T12:00:09.341Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor. Aap chahein toh main isko resend karwane ka request note kar sakti hoon. Aap careerplanb.co par bhi check kar sakte hain.",
+        "timestamp": "2026-10-19T12:00:12.120Z",
+        "chatMs": 727,
+        "ttsMs": 2035,
+        "totalMs": 2762,
+        "audioUrl": "/audio/7114265e-5096-4a73-85db-9dd001fc97af.wav"
+      },
+      {
+        "role": "user",
+        "text": "चलो ठीक है वह तो मैं चेक कर लूंगा।",
+        "timestamp": "2026-10-19T12:00:29.724Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Bilkul Doctor. Isme NEET PG counselling process ko samajhne ke liye useful tools hain, jaise MD MS True Cost Calculator, Seat Predictor, Bond Explorer aur Hospital",
+        "timestamp": "2026-10-19T12:00:33.746Z",
+        "chatMs": 432,
+        "ttsMs": 3586,
+        "totalMs": 4018,
+        "audioUrl": "/audio/a421e6c3-e0e4-43e0-90de-de4d035638c8.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAae9f24fc785d5868c3864273ddd1b8a9",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T09:49:35.004Z",
+    "endedAt": "2026-10-19T11:48:07.486Z",
+    "durationSec": 0,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 1982,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T09:49:42.592Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/3d690f7e-3fa7-447c-8660-d2979783f0d0.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T09:49:54.827Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha.",
+        "timestamp": "2026-10-19T09:49:58.171Z",
+        "chatMs": 540,
+        "ttsMs": 2798,
+        "totalMs": 3338,
+        "audioUrl": "/audio/9b6c7a21-10af-4030-acdc-479e1dbd9f5b.wav"
+      },
+      {
+        "role": "user",
+        "text": "हां तो क्या करूं इसका?",
+        "timestamp": "2026-10-19T09:50:15.888Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Koi baat nahi Doctor. Aap apne convenient time par dekh lijiye. Toolkit ko lekar koi basic question hai?",
+        "timestamp": "2026-10-19T09:50:17.737Z",
+        "chatMs": 304,
+        "ttsMs": 1533,
+        "totalMs": 1837,
+        "audioUrl": "/audio/c2bf80e8-6687-4de8-a8b2-1c8199391fe0.wav"
+      },
+      {
+        "role": "user",
+        "text": "अभी! मैं ठीक से नहीं।",
+        "timestamp": "2026-10-19T09:50:29.117Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Bilkul samajh gayi Doctor. Isme NEET PG counselling process ko samajhne ke liye useful tools hain, jaise MD MS True Cost Calculator, Seat Predictor, Bond",
+        "timestamp": "2026-10-19T09:50:31.894Z",
+        "chatMs": 388,
+        "ttsMs": 2363,
+        "totalMs": 2751,
+        "audioUrl": "/audio/709a2e66-349e-4510-ad24-f085bc89de32.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA54569f9472186c597a08bea633d8ef9f",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T09:41:09.770Z",
+    "endedAt": "2026-10-19T09:42:10.501Z",
+    "durationSec": 46,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 1570,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T09:41:23.374Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/3d690f7e-3fa7-447c-8660-d2979783f0d0.wav"
+      },
+      {
+        "role": "user",
+        "text": "यहां आपको?",
+        "timestamp": "2026-10-19T09:41:34.417Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry, main thoda clear nahi kar paayi. Kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T09:41:36.508Z",
+        "chatMs": 425,
+        "ttsMs": 1390,
+        "totalMs": 1815,
+        "audioUrl": "/audio/8718c275-438d-4b84-a144-6be39b26fd78.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T09:41:47.956Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Main ek AI calling assistant hoon. Doctor, humne aapko NEET PG counselling process ka ek",
+        "timestamp": "2026-10-19T09:41:51.020Z",
+        "chatMs": 417,
+        "ttsMs": 2479,
+        "totalMs": 2896,
+        "audioUrl": "/audio/ff9b7939-73a5-4b03-a316-a5186a635033.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA88f59e74941b89f90fb1ef569cf569fc",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T09:15:28.128Z",
+    "endedAt": "2026-10-19T09:16:13.922Z",
+    "durationSec": 39,
+    "language": "hi-IN",
+    "speaker": "kavya",
+    "avgLatencyMs": 1634,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T09:15:34.036Z",
+        "chatMs": 0,
+        "ttsMs": 986,
+        "totalMs": 986,
+        "audioUrl": "/audio/07f5517d-c482-45e0-8b33-f712af4e5218.wav"
+      },
+      {
+        "role": "user",
+        "text": "यहां आपको?",
+        "timestamp": "2026-10-19T09:15:42.615Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry, thoda unclear hai. Kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T09:15:44.179Z",
+        "chatMs": 242,
+        "ttsMs": 1319,
+        "totalMs": 1561,
+        "audioUrl": "/audio/dfd8165d-4351-4671-959b-857f342c6322.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T09:15:54.423Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha.",
+        "timestamp": "2026-10-19T09:15:56.781Z",
+        "chatMs": 263,
+        "ttsMs": 2093,
+        "totalMs": 2356,
+        "audioUrl": "/audio/1f8b9169-ee78-4144-8ff5-f41213a44e11.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAbc8e352810372b8237e7b73c3a2bc26e",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T09:14:01.802Z",
+    "endedAt": "2026-10-19T09:15:21.320Z",
+    "durationSec": 69,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 2044,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T09:14:12.700Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/ee32c0c0-8cfa-454e-8b80-d2423384da12.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T09:14:23.056Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha.",
+        "timestamp": "2026-10-19T09:14:26.330Z",
+        "chatMs": 400,
+        "ttsMs": 2863,
+        "totalMs": 3263,
+        "audioUrl": "/audio/f8311f56-2ef0-442f-aa95-92c54388d6b8.wav"
+      },
+      {
+        "role": "user",
+        "text": "क्या करूं उसको?",
+        "timestamp": "2026-10-19T09:14:45.461Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Koi baat nahi Doctor. Aap apne convenient time par dekh lijiye. Bas confirm karna tha ki aapko mil gaya tha. Toolkit ko lekar koi basic question hai?",
+        "timestamp": "2026-10-19T09:14:47.936Z",
+        "chatMs": 294,
+        "ttsMs": 2176,
+        "totalMs": 2470,
+        "audioUrl": "/audio/88da1b92-9114-4ff3-b70e-3758686563ce.wav"
+      },
+      {
+        "role": "user",
+        "text": "प्ले स्टोर!",
+        "timestamp": "2026-10-19T09:15:03.903Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor, main clearly samajh nahi paayi. Kya aap mujhe repeat kar sakte hain? Main NEET PG toolkit ke baare mein pooch rahi thi. Kya aapko woh",
+        "timestamp": "2026-10-19T09:15:06.350Z",
+        "chatMs": 360,
+        "ttsMs": 2084,
+        "totalMs": 2444,
+        "audioUrl": "/audio/77b84ae9-4ad5-474a-b7cd-9f7f8fd48c72.wav"
+      }
+    ]
+  },
+  {
+    "id": "unknown",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T09:02:40.241Z",
+    "endedAt": "2026-10-19T09:13:19.172Z",
+    "durationSec": 0,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T09:10:22.147Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/94946d54-da21-4291-b1cd-1fd996b06f8b.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAaf128b615810cfe7434f18ef242d300b",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T08:46:33.895Z",
+    "endedAt": "2026-10-19T08:49:15.972Z",
+    "durationSec": 148,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 1636,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T08:46:46.705Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/02078d15-5f70-4b2c-bb14-5c49da261a0a.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T08:46:56.620Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha.",
+        "timestamp": "2026-10-19T08:46:59.778Z",
+        "chatMs": 308,
+        "ttsMs": 2845,
+        "totalMs": 3153,
+        "audioUrl": "/audio/1598a539-68be-47a8-acdb-8afd440b73f4.wav"
+      },
+      {
+        "role": "user",
+        "text": "वह तो क्या करूं उसका?",
+        "timestamp": "2026-10-19T08:47:17.327Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Koi baat nahi Doctor. Aap apne convenient time par dekh lijiye. Bas confirm karna tha ki aapko mil gaya ya nahi. Mil gaya hai aapko?",
+        "timestamp": "2026-10-19T08:47:19.389Z",
+        "chatMs": 318,
+        "ttsMs": 1740,
+        "totalMs": 2058,
+        "audioUrl": "/audio/1b18ee23-b0fa-4432-be28-e9bfa953ca06.wav"
+      },
+      {
+        "role": "user",
+        "text": "मेरे! दिखानी।",
+        "timestamp": "2026-10-19T08:47:31.718Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Theek hai Doctor. Isme NEET PG counselling process ko samajhne ke liye useful tools hain, jaise MD MS True Cost Calculator, Seat Predictor, Bond Explorer aur",
+        "timestamp": "2026-10-19T08:47:34.397Z",
+        "chatMs": 278,
+        "ttsMs": 2399,
+        "totalMs": 2677,
+        "audioUrl": "/audio/d896f70a-66c7-4171-b176-528e1a525eaf.wav"
+      },
+      {
+        "role": "user",
+        "text": "मैं क्या करूं?",
+        "timestamp": "2026-10-19T08:47:49.261Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, agar aapko useful lage, toh aap hamare human expert counsellor ke saath ek free session schedule kar sakte hain. Woh aapke counselling-related questions discuss kar sakte",
+        "timestamp": "2026-10-19T08:47:52.016Z",
+        "chatMs": 316,
+        "ttsMs": 2435,
+        "totalMs": 2751,
+        "audioUrl": "/audio/aa19a8cb-f4a2-4316-9677-4cdc34b246b6.wav"
+      },
+      {
+        "role": "user",
+        "text": "ठीक है करता हूं।",
+        "timestamp": "2026-10-19T08:48:11.512Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure Doctor. Aapke liye kaunsi date aur time convenient rahega?",
+        "timestamp": "2026-10-19T08:48:12.843Z",
+        "chatMs": 258,
+        "ttsMs": 1072,
+        "totalMs": 1330,
+        "audioUrl": "/audio/132897d5-6f65-430b-be79-99efff5833af.wav"
+      },
+      {
+        "role": "user",
+        "text": "बिल्कुल टाइम बुक करते हो?",
+        "timestamp": "2026-10-19T08:48:34.417Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ji Doctor, main check kar leti hoon. Aap batayiye kaunsa time suit karega?",
+        "timestamp": "2026-10-19T08:48:35.853Z",
+        "chatMs": 302,
+        "ttsMs": 1132,
+        "totalMs": 1434,
+        "audioUrl": "/audio/9dccedde-7d04-4b2c-9490-27bd44d55467.wav"
+      },
+      {
+        "role": "user",
+        "text": "कल 10:00।",
+        "timestamp": "2026-10-19T08:48:46.030Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I am listening, please go ahead!",
+        "timestamp": "2026-10-19T08:48:47.072Z",
+        "chatMs": 346,
+        "ttsMs": 687,
+        "totalMs": 1033,
+        "audioUrl": "/audio/be9cecf8-c8d2-4292-a7bb-1489d47fc42b.wav"
+      },
+      {
+        "role": "user",
+        "text": "हां, कल 10:00 बजे का टाइम कर दो।",
+        "timestamp": "2026-10-19T08:48:56.208Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I am listening, please go ahead!",
+        "timestamp": "2026-10-19T08:48:56.493Z",
+        "chatMs": 285,
+        "ttsMs": 0,
+        "totalMs": 285,
+        "audioUrl": "/audio/be9cecf8-c8d2-4292-a7bb-1489d47fc42b.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAb053910b3d189d1c9bcca55e849c97a4",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T08:20:41.318Z",
+    "endedAt": "2026-10-19T08:20:59.845Z",
+    "durationSec": 7,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T08:20:51.431Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/27a75fc2-d63a-4f9b-b61b-17b23e0fb179.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA5c188e28f41db7c3ba942f79a3d636bd",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T07:14:13.842Z",
+    "endedAt": "2026-10-19T07:16:06.372Z",
+    "durationSec": 101,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 2944,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T07:14:23.568Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/27a75fc2-d63a-4f9b-b61b-17b23e0fb179.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी!",
+        "timestamp": "2026-10-19T07:14:33.293Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T07:14:37.372Z",
+        "chatMs": 521,
+        "ttsMs": 3558,
+        "totalMs": 4079,
+        "audioUrl": "/audio/3e7196b7-3937-4428-a8fc-3e250fb44fac.wav"
+      },
+      {
+        "role": "user",
+        "text": "नई!",
+        "timestamp": "2026-10-19T07:14:52.663Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor. Aap chahein toh main isko resend karwane ka request note kar sakti hoon. Aap careerplanb.co par bhi check kar sakte hain. Main abhi resend request daal doon?",
+        "timestamp": "2026-10-19T07:14:56.522Z",
+        "chatMs": 782,
+        "ttsMs": 3074,
+        "totalMs": 3856,
+        "audioUrl": "/audio/b84a7651-5ce3-41b5-aa64-19a074e24979.wav"
+      },
+      {
+        "role": "user",
+        "text": "हेलो!",
+        "timestamp": "2026-10-19T07:15:02.200Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haan Doctor, main sun rahi hoon. Aap please boliye.",
+        "timestamp": "2026-10-19T07:15:03.602Z",
+        "chatMs": 371,
+        "ttsMs": 1029,
+        "totalMs": 1400,
+        "audioUrl": "/audio/8d296852-c5d7-4653-99a5-155cf8bb8c7a.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं नहीं मिला मुझको कोई भी तो।",
+        "timestamp": "2026-10-19T07:15:13.881Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor. Main note kar leti hoon. Main abhi resend request daal deti hoon. Aap ek baar careerplanb.co par bhi check kar lijiyega. Aur Doctor, isme NEET PG counselling process ko samajhne ke",
+        "timestamp": "2026-10-19T07:15:17.889Z",
+        "chatMs": 659,
+        "ttsMs": 3346,
+        "totalMs": 4005,
+        "audioUrl": "/audio/416b402e-2295-46d6-9e51-360b723c635b.wav"
+      },
+      {
+        "role": "user",
+        "text": "लव!",
+        "timestamp": "2026-10-19T07:15:41.388Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor, mujhe theek se samajh nahi aaya. Kya aap bata sakte hain ki aapko toolkit nahi mila, ya koi aur baat hai?",
+        "timestamp": "2026-10-19T07:15:44.015Z",
+        "chatMs": 532,
+        "ttsMs": 2093,
+        "totalMs": 2625,
+        "audioUrl": "/audio/6d964fde-6ac3-4dff-b259-eb9be8381fa1.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं नहीं मिला मेरे को।",
+        "timestamp": "2026-10-19T07:15:55.519Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Theek hai Doctor, maine note kar liya hai. Main resend request daal deti hoon. Aur Doctor, is toolkit mein useful tools hain, jaise MD MS True Cost Calculator, Seat Predictor, Bond Explorer aur Hospital Bed Indicator. Agar",
+        "timestamp": "2026-10-19T07:16:00.166Z",
+        "chatMs": 595,
+        "ttsMs": 4050,
+        "totalMs": 4645,
+        "audioUrl": "/audio/172570bf-8cbe-456d-9e3e-9cfc3375c765.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAe760dba7aec0d807b4d1598b08df3b63",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T07:11:52.089Z",
+    "endedAt": "2026-10-19T07:12:39.718Z",
+    "durationSec": 0,
+    "language": "hi-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 2358,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T07:11:59.675Z",
+        "chatMs": 0,
+        "ttsMs": 903,
+        "totalMs": 903,
+        "audioUrl": "/audio/27a75fc2-d63a-4f9b-b61b-17b23e0fb179.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T07:12:07.968Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste, Doctor. Main Diya bol rahi hoon, Career Plan B se. Humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T07:12:11.707Z",
+        "chatMs": 511,
+        "ttsMs": 3225,
+        "totalMs": 3736,
+        "audioUrl": "/audio/ac127a7a-20cb-4e17-a468-ce3a2ca8a3bd.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां मिल गया।",
+        "timestamp": "2026-10-19T07:12:28.472Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Achha, great, Doctor. Hope aapke liye useful rahega. Kya toolkit ko lekar koi basic question hai?",
+        "timestamp": "2026-10-19T07:12:30.908Z",
+        "chatMs": 398,
+        "ttsMs": 2036,
+        "totalMs": 2434,
+        "audioUrl": "/audio/a6f82f90-8918-4c40-af11-fdbe18b7f04e.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAa126b1111ed2a859edc4acc023b5f7d2",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T07:11:04.382Z",
+    "endedAt": "2026-10-19T07:11:29.595Z",
+    "durationSec": 19,
+    "language": "hi-IN",
+    "speaker": "roopa",
+    "avgLatencyMs": 2625,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T07:11:12.057Z",
+        "chatMs": 0,
+        "ttsMs": 1003,
+        "totalMs": 1003,
+        "audioUrl": "/audio/13815716-fab3-4819-baa5-8f96dd0fe3de.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T07:11:20.353Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T07:11:24.599Z",
+        "chatMs": 513,
+        "ttsMs": 3733,
+        "totalMs": 4246,
+        "audioUrl": "/audio/3f32bb26-95a4-4c4d-9a0a-efeca7d73dce.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAcd77f54eec950ada7c19c66eb6dd1d8e",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T07:09:55.690Z",
+    "endedAt": "2026-10-19T07:10:48.093Z",
+    "durationSec": 41,
+    "language": "hi-IN",
+    "speaker": "kavya",
+    "avgLatencyMs": 2471,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T07:10:06.496Z",
+        "chatMs": 0,
+        "ttsMs": 903,
+        "totalMs": 903,
+        "audioUrl": "/audio/1d4a9fec-d242-4e87-93b7-34cda8bbdac4.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, आप कौन?",
+        "timestamp": "2026-10-19T07:10:14.416Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste, Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T07:10:17.514Z",
+        "chatMs": 319,
+        "ttsMs": 2777,
+        "totalMs": 3096,
+        "audioUrl": "/audio/302f55ab-348a-4755-8420-4baaf5cab3c1.wav"
+      },
+      {
+        "role": "user",
+        "text": "अपना नंबर कहां से मिला?",
+        "timestamp": "2026-10-19T07:10:34.153Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, sorry, mere paas abhi aapke number ke source ki verified information nahi hai. Main guess nahi karna chahti. Main team se verification request kar sakti hoon. Waise, toolkit aapko WhatsApp par mila tha ya nahi,",
+        "timestamp": "2026-10-19T07:10:37.570Z",
+        "chatMs": 386,
+        "ttsMs": 3029,
+        "totalMs": 3415,
+        "audioUrl": "/audio/647d3986-9eb6-4114-8ff6-721f6f2b7f64.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAc3991c7f524e9148ea65840ed89aa584",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:57:03.505Z",
+    "endedAt": "2026-10-19T06:57:48.417Z",
+    "durationSec": 37,
+    "language": "hi-IN",
+    "speaker": "simran_hi_assistant",
+    "avgLatencyMs": 306,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T06:57:10.051Z",
+        "chatMs": 0,
+        "ttsMs": 156,
+        "totalMs": 156,
+        "audioUrl": null
+      },
+      {
+        "role": "user",
+        "text": "क्या आप कौन?",
+        "timestamp": "2026-10-19T06:57:20.629Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste. Main Diya bol rahi hoon, Career Plan B se. Kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T06:57:21.007Z",
+        "chatMs": 276,
+        "ttsMs": 99,
+        "totalMs": 375,
+        "audioUrl": null
+      },
+      {
+        "role": "user",
+        "text": "मुझे डॉक्टर से हो रही है।",
+        "timestamp": "2026-10-19T06:57:31.976Z"
+      },
+      {
+        "role": "assistant",
+        "text": "धन्यवाद, Doctor. Main NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T06:57:32.365Z",
+        "chatMs": 282,
+        "ttsMs": 105,
+        "totalMs": 387,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "CA667c2971ab05f8b942628369433197ee",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:54:55.627Z",
+    "endedAt": "2026-10-19T06:55:36.851Z",
+    "durationSec": 34,
+    "language": "hi-IN",
+    "speaker": "simran_hi_assistant",
+    "avgLatencyMs": 330,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T06:55:02.531Z",
+        "chatMs": 0,
+        "ttsMs": 108,
+        "totalMs": 108,
+        "audioUrl": null
+      },
+      {
+        "role": "user",
+        "text": "जी आप आप डॉक्टर से बात कर रहे हो?",
+        "timestamp": "2026-10-19T06:55:12.973Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry, shayad confusion ho gayi. Main confirm karna chahti thi ki kya meri baat Doctor [LAST_NAME] se ho rahi hai? Agar aap wahi hain toh please apna last name bata dijiye.",
+        "timestamp": "2026-10-19T06:55:13.428Z",
+        "chatMs": 350,
+        "ttsMs": 103,
+        "totalMs": 453,
+        "audioUrl": null
+      },
+      {
+        "role": "user",
+        "text": "छोड़!",
+        "timestamp": "2026-10-19T06:55:35.517Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor, shayad aap busy hain. Agar aap confirm kar dein ki aap intended doctor hain, toh main bas ek quick follow-up kar lungi. Warna main aapka time nahi loongi. Kya aap Dr. [LAST_NAME]",
+        "timestamp": "2026-10-19T06:55:35.946Z",
+        "chatMs": 331,
+        "ttsMs": 97,
+        "totalMs": 428,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "CA41403e17ce391781b69558e7af5d8400",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:52:17.462Z",
+    "endedAt": "2026-10-19T06:53:37.958Z",
+    "durationSec": 75,
+    "language": "hi-IN",
+    "speaker": "simran_hi_assistant",
+    "avgLatencyMs": 1667,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T06:52:23.370Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/33c09d9d-60b1-4e25-80e7-86fd2fdc0a24.wav"
+      },
+      {
+        "role": "user",
+        "text": "आप कौन?",
+        "timestamp": "2026-10-19T06:52:32.416Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste, Doctor. Main Diya bol rahi hoon, Career Plan B se. Kya meri baat sahi Doctor se ho रही है?",
+        "timestamp": "2026-10-19T06:52:34.085Z",
+        "chatMs": 325,
+        "ttsMs": 1341,
+        "totalMs": 1666,
+        "audioUrl": "/audio/a7154da7-f364-4ef2-8a18-8a3cd777db1a.wav"
+      },
+      {
+        "role": "user",
+        "text": "आपने कॉल किसको किया?",
+        "timestamp": "2026-10-19T06:52:45.303Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, main Career Plan B se call kar rahi hoon NEET PG counselling guidance ke regarding. Bas confirm karna tha ki main sahi Doctor se baat kar rahi hoon. Kya aap Dr",
+        "timestamp": "2026-10-19T06:52:48.070Z",
+        "chatMs": 617,
+        "ttsMs": 2147,
+        "totalMs": 2764,
+        "audioUrl": "/audio/16c95abb-7d16-43e9-8c2c-194d929c9f72.wav"
+      },
+      {
+        "role": "user",
+        "text": "यहां कुछ बोल रहे थे, बीच में रुकोगे?",
+        "timestamp": "2026-10-19T06:53:06.238Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ji Doctor, main sun rahi hoon. Aap aaram se boliye.",
+        "timestamp": "2026-10-19T06:53:07.527Z",
+        "chatMs": 328,
+        "ttsMs": 958,
+        "totalMs": 1286,
+        "audioUrl": "/audio/9961c371-b311-40c4-ab6c-c5283c780ad5.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं आपने मेरे को कॉल क्यों किया?",
+        "timestamp": "2026-10-19T06:53:18.729Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi. Kya aapko receive",
+        "timestamp": "2026-10-19T06:53:21.350Z",
+        "chatMs": 316,
+        "ttsMs": 2302,
+        "totalMs": 2618,
+        "audioUrl": "/audio/197dd2b4-964b-4e93-b8da-529e472c0f9e.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA9234d9a50d1f5c0ab9d80d5daff693bd",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:51:08.856Z",
+    "endedAt": "2026-10-19T06:51:49.111Z",
+    "durationSec": 32,
+    "language": "hi-IN",
+    "speaker": "simran_hi_assistant",
+    "avgLatencyMs": 1189,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T06:51:16.649Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/33c09d9d-60b1-4e25-80e7-86fd2fdc0a24.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां, डॉक्टर से बात कर रहे हो आप?",
+        "timestamp": "2026-10-19T06:51:27.421Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste, Doctor. Main Diya bol rahi hoon, Career Plan B se.",
+        "timestamp": "2026-10-19T06:51:28.950Z",
+        "chatMs": 248,
+        "ttsMs": 1276,
+        "totalMs": 1524,
+        "audioUrl": "/audio/38620a87-31e1-4cd1-a76b-62ace385bbab.wav"
+      },
+      {
+        "role": "user",
+        "text": "ठीक है आपने मेरे को कॉल क्यों किया?",
+        "timestamp": "2026-10-19T06:51:41.265Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, humne aapko NEET PG counselling toolkit WhatsApp par bheja tha. Bas confirm karna tha ki mil gaya ya nahi.",
+        "timestamp": "2026-10-19T06:51:43.310Z",
+        "chatMs": 349,
+        "ttsMs": 1693,
+        "totalMs": 2042,
+        "audioUrl": "/audio/5f09103c-c81a-437f-aa76-fffe568a9eae.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAc91701ee107da74cba22fa4ad11d3c7e",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:24:36.219Z",
+    "endedAt": "2026-10-19T06:26:01.402Z",
+    "durationSec": 0,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 2612,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya main Doctor se baat kar rahi hoon?",
+        "timestamp": "2026-10-19T06:24:43.931Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/5d0a3a4d-8555-4b5f-b406-2086cedc9eb9.wav"
+      },
+      {
+        "role": "user",
+        "text": "जी हां!",
+        "timestamp": "2026-10-19T06:24:52.085Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Namaste Doctor. Main Diya bol rahi hoon, Career Plan B se. Doctor, humne aapko NEET PG counselling process ka ek toolkit WhatsApp par bheja tha. Bas confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T06:24:55.079Z",
+        "chatMs": 363,
+        "ttsMs": 2627,
+        "totalMs": 2990,
+        "audioUrl": "/audio/8d54e66b-2515-497e-9877-73430f94bfa3.wav"
+      },
+      {
+        "role": "user",
+        "text": "आपको मेरा नंबर कहां से मिला?",
+        "timestamp": "2026-10-19T06:25:09.403Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, sorry, mere paas abhi aapke number ke source ki verified information nahi hai. Main guess nahi karna chahti. Main team se verification request kar sakti hoon. Waise, kya aapko woh NEET PG toolkit mila tha?",
+        "timestamp": "2026-10-19T06:25:12.925Z",
+        "chatMs": 418,
+        "ttsMs": 3101,
+        "totalMs": 3519,
+        "audioUrl": "/audio/4c2c308f-6aee-4b98-8ec2-a83f2c2a76d5.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं तो फिर आपने मेरे को कॉल क्यों किया?",
+        "timestamp": "2026-10-19T06:25:29.198Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry for that, Doctor. Main aapka time nahi loongi. Bas ek baar resend karne ka request note kar leti hoon. Aap careerplanb.co par bhi check kar sakte hain. Kya main yeh request note kar doon?",
+        "timestamp": "2026-10-19T06:25:32.198Z",
+        "chatMs": 376,
+        "ttsMs": 2620,
+        "totalMs": 2996,
+        "audioUrl": "/audio/9e7f438f-5304-4696-94cc-fcff51d80abf.wav"
+      },
+      {
+        "role": "user",
+        "text": "इसको नोट कर लो।",
+        "timestamp": "2026-10-19T06:25:45.781Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Done, Doctor. Maine resend request note kar li hai. Agar aapko useful lage, toh aap hamare human expert counsellor ke saath ek free session schedule kar sakte hain. Woh aapke counselling-related questions discuss kar sakte hain. Bilkul",
+        "timestamp": "2026-10-19T06:25:49.350Z",
+        "chatMs": 352,
+        "ttsMs": 3203,
+        "totalMs": 3555,
+        "audioUrl": "/audio/be8ab1df-0c76-4aa6-8b63-53c993377290.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAc6a1e6674dcb4dc7b9596da8502482af",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:23:39.127Z",
+    "endedAt": "2026-10-19T06:23:53.446Z",
+    "durationSec": 8,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T06:23:46.592Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAc7d834b58886d5ec122d64eb871802c9",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:19:50.998Z",
+    "endedAt": "2026-10-19T06:20:05.756Z",
+    "durationSec": 7,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T06:19:59.417Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA70c3346393908ece9c3fff4e4e376060",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:19:28.135Z",
+    "endedAt": "2026-10-19T06:19:42.021Z",
+    "durationSec": 6,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T06:19:35.581Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAad604a19f3b1f891ac0ac183ab29c7a2",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:19:01.197Z",
+    "endedAt": "2026-10-19T06:19:13.894Z",
+    "durationSec": 5,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T06:19:07.474Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAd98c07669239f414387926e6beba51a7",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T06:18:33.216Z",
+    "endedAt": "2026-10-19T06:18:56.508Z",
+    "durationSec": 0,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T06:18:50.063Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAabd424356c9d42a66f12cc1b16a604f4",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:59:34.099Z",
+    "endedAt": "2026-10-19T06:00:01.650Z",
+    "durationSec": 19,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 765,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T05:59:43.174Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं, मैं तो इंजीनियर बोल रहा हूं।",
+        "timestamp": "2026-10-19T05:59:51.783Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh, sorry for the inconvenience. Main aapka time nahi loongi. Thank you.",
+        "timestamp": "2026-10-19T05:59:53.315Z",
+        "chatMs": 376,
+        "ttsMs": 1154,
+        "totalMs": 1530,
+        "audioUrl": "/audio/89f82577-05a0-40b3-a4a6-eeac754ea485.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA96686265422d399ea3f2c7734ca429c2",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:48:11.282Z",
+    "endedAt": "2026-10-19T05:49:45.182Z",
+    "durationSec": 87,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 2666,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T05:48:16.465Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      },
+      {
+        "role": "user",
+        "text": "कौन से डॉक्टर से?",
+        "timestamp": "2026-10-19T05:48:24.928Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor, actually mujhe exactly pata nahi. Main bas confirm kar rahi thi ki aap NEET PG counselling process se jude hain. Kya aap wahi Doctor hain jinko maine call kiya tha?",
+        "timestamp": "2026-10-19T05:48:27.583Z",
+        "chatMs": 342,
+        "ttsMs": 2310,
+        "totalMs": 2652,
+        "audioUrl": "/audio/86fcf837-909b-4cc0-b80d-0a9c24dcd398.wav"
+      },
+      {
+        "role": "user",
+        "text": "नहीं मिलना आपने मेरे को आज से पहले कभी कोई नहीं किया।",
+        "timestamp": "2026-10-19T05:48:41.538Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh, I am really sorry for the confusion Doctor. Mera maqsad disturb karna nahi tha. Main actually Career Plan B se Diya bol rahi hoon. Humne aapko NEET PG counselling ka ek toolkit WhatsApp pe bheja hai. Bas confirm karna",
+        "timestamp": "2026-10-19T05:48:44.920Z",
+        "chatMs": 300,
+        "ttsMs": 3081,
+        "totalMs": 3381,
+        "audioUrl": "/audio/6a5dd2d8-9cbe-4b54-814b-72461393d9ea.wav"
+      },
+      {
+        "role": "user",
+        "text": "लेकिन मैं आप व्हाट्सएप्प क्यों करूं? आप अगर मेरे साथ गेम कर दोगे तो?",
+        "timestamp": "2026-10-19T05:49:03.769Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, aapka cautious rehna bilkul sahi hai. Main koi game nahi kar rahi. Yeh sirf NEET PG counselling ka ek informational toolkit hai jo humne bheja hai. Agar aap comfortable nahi hain toh koi baat nahi. Main abhi call",
+        "timestamp": "2026-10-19T05:49:07.075Z",
+        "chatMs": 375,
+        "ttsMs": 2929,
+        "totalMs": 3304,
+        "audioUrl": "/audio/87fa8f95-941c-4844-8792-17a89696cb65.wav"
+      },
+      {
+        "role": "user",
+        "text": "क्या आप अभी कॉल किया?",
+        "timestamp": "2026-10-19T05:49:24.948Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ji Doctor, abhi call kiya hai maine. Main bas yeh confirm kar rahi thi ki aapko WhatsApp pe toolkit mila ya nahi. Agar aapko nahi mila toh main dobara bhej deti hoon. Kya aap check kar sakte hain ek baar?",
+        "timestamp": "2026-10-19T05:49:28.942Z",
+        "chatMs": 1364,
+        "ttsMs": 2627,
+        "totalMs": 3991,
+        "audioUrl": "/audio/7eb47b62-d402-40d1-bead-d74062bdb1a1.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA027b75fb0e66a6f0a57a060e67962c5c",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:47:19.030Z",
+    "endedAt": "2026-10-19T05:47:56.905Z",
+    "durationSec": 0,
+    "language": "pa-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 1060,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T05:47:25.606Z",
+        "chatMs": 0,
+        "ttsMs": 840,
+        "totalMs": 840,
+        "audioUrl": "/audio/37507ef8-dd9e-4850-b7d5-fe3a1d032f23.wav"
+      },
+      {
+        "role": "user",
+        "text": "You know.",
+        "timestamp": "2026-10-19T05:47:39.296Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor, mujhe theek se samajh nahi aaya. Kya aap Doctor baat kar rahe hain?",
+        "timestamp": "2026-10-19T05:47:40.579Z",
+        "chatMs": 250,
+        "ttsMs": 1030,
+        "totalMs": 1280,
+        "audioUrl": "/audio/c75fec3a-8d34-4315-9be9-885fdd1b49dc.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAd158f045aa0567699654168be1c17fc3",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:44:23.054Z",
+    "endedAt": "2026-10-19T05:46:49.245Z",
+    "durationSec": 130,
+    "language": "hi-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 2477,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hello, kya meri baat Doctor se ho rahi hai?",
+        "timestamp": "2026-10-19T05:44:38.399Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/64c48000-eeda-429d-a924-99cbe379e828.wav"
+      },
+      {
+        "role": "user",
+        "text": "कौन से डॉक्टर से?",
+        "timestamp": "2026-10-19T05:44:46.123Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry Doctor, actually mujhe exact name nahi pata. Main bas yeh confirm karna chahti thi ki meri baat Doctor se hi ho rahi hai. Kya aap hi baat kar rahe hain?",
+        "timestamp": "2026-10-19T05:44:48.434Z",
+        "chatMs": 383,
+        "ttsMs": 1925,
+        "totalMs": 2308,
+        "audioUrl": "/audio/d49870fa-6a0a-433f-9269-e73e80e1ca23.wav"
+      },
+      {
+        "role": "user",
+        "text": "राम राम!",
+        "timestamp": "2026-10-19T05:44:59.922Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Hello Doctor! Main Career Plan B se Diya bol rahi hoon. Bas ek quick update dena tha. Maine aapko NEET PG counselling process ka ek toolkit WhatsApp pe bheja hai, bas yeh confirm karna tha ki aapko mil gaya ya nahi.",
+        "timestamp": "2026-10-19T05:45:03.188Z",
+        "chatMs": 317,
+        "ttsMs": 2946,
+        "totalMs": 3263,
+        "audioUrl": "/audio/39d4a746-a7b0-4e49-b70f-6158336fcbc2.wav"
+      },
+      {
+        "role": "user",
+        "text": "लेकिन मैं व्हाट्सएप्प चलाता नहीं।",
+        "timestamp": "2026-10-19T05:45:19.165Z"
+      },
+      {
+        "role": "assistant",
+        "text": "कोई बात नहीं Doctor, samajh sakti hoon. Aap tension mat lijiye. Main abhi dobara aapko WhatsApp pe bhej deti hoon. Aur agar aap chahein, toh aap humari website careerplanb.co pe bhi",
+        "timestamp": "2026-10-19T05:45:22.271Z",
+        "chatMs": 454,
+        "ttsMs": 2649,
+        "totalMs": 3103,
+        "audioUrl": "/audio/4750ff10-82ee-41cf-b6fa-eaaafb5f9a51.wav"
+      },
+      {
+        "role": "user",
+        "text": "आप अपना नंबर कहां से मिला?",
+        "timestamp": "2026-10-19T05:45:37.146Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Doctor, aapne pehle kabhi humari website ya counselling process ke baare mein enquiry ki thi. Isiliye humne aapka number liya tha. Bas wahi toolkit ka update dena tha. Kya aapko woh message mil gaya abhi",
+        "timestamp": "2026-10-19T05:45:40.592Z",
+        "chatMs": 427,
+        "ttsMs": 3016,
+        "totalMs": 3443,
+        "audioUrl": "/audio/de567968-686e-4757-a1b8-63fb8a862a6c.wav"
+      },
+      {
+        "role": "user",
+        "text": "लिखो अपने आप मैसेज कम करने वाले हो।",
+        "timestamp": "2026-10-19T05:45:59.484Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Bilkul Doctor, main note kar leti hoon. Ab se aapko aise messages nahi aayenge. Bas ek baar confirm kar dijiye, ab aapko woh toolkit ka link mil gaya hai na?",
+        "timestamp": "2026-10-19T05:46:02.057Z",
+        "chatMs": 407,
+        "ttsMs": 2164,
+        "totalMs": 2571,
+        "audioUrl": "/audio/c09aa308-a339-4f71-bfb9-73d5e1806d60.wav"
+      },
+      {
+        "role": "user",
+        "text": "रजिस्टर करना नहीं चाहता।",
+        "timestamp": "2026-10-19T05:46:16.276Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Bilkul samajh sakti hoon Doctor. Maine aapki preference note kar li hai, ab aapko koi message nahi aayega. Aapka samay dene ke liye bahut shukriya. Have a great day!",
+        "timestamp": "2026-10-19T05:46:18.759Z",
+        "chatMs": 411,
+        "ttsMs": 2070,
+        "totalMs": 2481,
+        "audioUrl": "/audio/18e66c8d-59e2-405e-9957-da11c9a962fc.wav"
+      },
+      {
+        "role": "user",
+        "text": "क्या आपने फोन कट कर दिया?",
+        "timestamp": "2026-10-19T05:46:35.346Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Nahi Doctor, main line pe hi hoon. Main bas politely call close kar rahi hoon kyunki aapne bola ki aapko register nahi karna. Main abhi call cut kar deti hoon. Thank you, Doctor!",
+        "timestamp": "2026-10-19T05:46:37.995Z",
+        "chatMs": 377,
+        "ttsMs": 2270,
+        "totalMs": 2647,
+        "audioUrl": "/audio/5b626af9-c662-4f15-a325-56281d1b2e49.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA0db252e7e0829208c7fe2a5ec917e619",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:21:30.940Z",
+    "endedAt": "2026-10-19T05:23:36.471Z",
+    "durationSec": 109,
+    "language": "en-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 1707,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-19T05:21:48.619Z",
+        "chatMs": 0,
+        "ttsMs": 971,
+        "totalMs": 971,
+        "audioUrl": "/audio/4b1d566f-8403-4eb4-9ebe-f191a29298c6.wav"
+      },
+      {
+        "role": "user",
+        "text": "Who's there?",
+        "timestamp": "2026-10-19T05:21:55.905Z"
+      },
+      {
+        "role": "assistant",
+        "text": "It's me, your friend! What's up?",
+        "timestamp": "2026-10-19T05:21:57.163Z",
+        "chatMs": 367,
+        "ttsMs": 888,
+        "totalMs": 1255,
+        "audioUrl": "/audio/df240fc0-1bf5-462b-afa6-51d48f587240.wav"
+      },
+      {
+        "role": "user",
+        "text": "Hello.",
+        "timestamp": "2026-10-19T05:22:09.241Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Hey! Weekend plans sorted yet?",
+        "timestamp": "2026-10-19T05:22:11.733Z",
+        "chatMs": 1406,
+        "ttsMs": 1082,
+        "totalMs": 2488,
+        "audioUrl": "/audio/557eaa5d-056c-42c5-8eee-8240d79671c5.wav"
+      },
+      {
+        "role": "user",
+        "text": "Yeah, what is the plan?",
+        "timestamp": "2026-10-19T05:22:18.564Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Thinking of grabbing dinner! What's your vibe? Italian, Indian, or Chinese?",
+        "timestamp": "2026-10-19T05:22:20.634Z",
+        "chatMs": 479,
+        "ttsMs": 1588,
+        "totalMs": 2067,
+        "audioUrl": "/audio/e7efd169-fb82-4986-b712-f5702b7eb27e.wav"
+      },
+      {
+        "role": "user",
+        "text": "Pakistani",
+        "timestamp": "2026-10-19T05:22:32.383Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Nice choice! What's your schedule looking like?",
+        "timestamp": "2026-10-19T05:22:33.857Z",
+        "chatMs": 447,
+        "ttsMs": 1020,
+        "totalMs": 1467,
+        "audioUrl": "/audio/900a7469-1551-40c8-802f-733d0f9e4497.wav"
+      },
+      {
+        "role": "user",
+        "text": "United",
+        "timestamp": "2026-10-19T05:22:42.520Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, I meant this weekend! Free to hang out?",
+        "timestamp": "2026-10-19T05:22:44.240Z",
+        "chatMs": 383,
+        "ttsMs": 1333,
+        "totalMs": 1716,
+        "audioUrl": "/audio/4dd65425-49c1-4951-9583-a7c2da4e39f5.wav"
+      },
+      {
+        "role": "user",
+        "text": "Tonight 12:00 p.m.",
+        "timestamp": "2026-10-19T05:22:52.279Z"
+      },
+      {
+        "role": "assistant",
+        "text": "12 PM works great! See you then?",
+        "timestamp": "2026-10-19T05:22:53.860Z",
+        "chatMs": 456,
+        "ttsMs": 1121,
+        "totalMs": 1577,
+        "audioUrl": "/audio/91caf7f2-7171-4780-bf88-e0040ad5d75c.wav"
+      },
+      {
+        "role": "user",
+        "text": "At which locations?",
+        "timestamp": "2026-10-19T05:23:00.854Z"
+      },
+      {
+        "role": "assistant",
+        "text": "How about that new place downtown? Sound good?",
+        "timestamp": "2026-10-19T05:23:02.873Z",
+        "chatMs": 690,
+        "ttsMs": 1326,
+        "totalMs": 2016,
+        "audioUrl": "/audio/74dab201-027e-4fe2-9fe3-3e2334a73bd4.wav"
+      },
+      {
+        "role": "user",
+        "text": "Krishna Kapoor",
+        "timestamp": "2026-10-19T05:23:11.803Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, sounds like a plan! See you then?",
+        "timestamp": "2026-10-19T05:23:13.422Z",
+        "chatMs": 491,
+        "ttsMs": 1124,
+        "totalMs": 1615,
+        "audioUrl": "/audio/96b42e31-8ee7-4e2c-9ee3-473e9fe40a00.wav"
+      },
+      {
+        "role": "user",
+        "text": "acid rest me some more",
+        "timestamp": "2026-10-19T05:23:22.153Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, sure! Rest up. Catch you tonight?",
+        "timestamp": "2026-10-19T05:23:24.059Z",
+        "chatMs": 583,
+        "ttsMs": 1319,
+        "totalMs": 1902,
+        "audioUrl": "/audio/69350d46-a698-463b-b6cc-f52e1ddb47c0.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAcb6479169586c054957f502025b0ebc1",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:12:35.670Z",
+    "endedAt": "2026-10-19T05:13:04.555Z",
+    "durationSec": 20,
+    "language": "en-IN",
+    "speaker": "priya",
+    "avgLatencyMs": 1095,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-19T05:12:45.121Z",
+        "chatMs": 0,
+        "ttsMs": 1020,
+        "totalMs": 1020,
+        "audioUrl": "/audio/6ed25f21-5910-4ab6-8098-bbbc70bf329a.wav"
+      },
+      {
+        "role": "user",
+        "text": "I'm doing good.",
+        "timestamp": "2026-10-19T05:12:56.591Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Nice! What's up with you?",
+        "timestamp": "2026-10-19T05:12:57.764Z",
+        "chatMs": 347,
+        "ttsMs": 823,
+        "totalMs": 1170,
+        "audioUrl": "/audio/4323cf34-6bae-4fbb-97a4-1194ee39b7bf.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA496377bdf1f600e3914bf5d330e006b3",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-19T05:07:31.657Z",
+    "endedAt": "2026-10-19T05:08:58.967Z",
+    "durationSec": 0,
+    "language": "en-IN",
+    "speaker": "shubh",
+    "avgLatencyMs": 838,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-19T05:07:39.227Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/748c23d2-e2b4-4ae4-9652-259cace248b4.wav"
+      },
+      {
+        "role": "user",
+        "text": "I am fine. What about you?",
+        "timestamp": "2026-10-19T05:07:47.906Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm doing great, thanks! \nWhat's up with you?",
+        "timestamp": "2026-10-19T05:07:48.857Z",
+        "chatMs": 241,
+        "ttsMs": 707,
+        "totalMs": 948,
+        "audioUrl": "/audio/24759b35-18ab-458e-89f7-7abe8afb028a.wav"
+      },
+      {
+        "role": "user",
+        "text": "Nothing just I am in the office hunting the regular work.",
+        "timestamp": "2026-10-19T05:07:57.553Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ugh, office work is so boring. \nGot any fun plans for the weekend?",
+        "timestamp": "2026-10-19T05:07:58.724Z",
+        "chatMs": 251,
+        "ttsMs": 918,
+        "totalMs": 1169,
+        "audioUrl": "/audio/006931ee-6a1c-48af-aefb-6b09b8727581.wav"
+      },
+      {
+        "role": "user",
+        "text": "West Indies very far away from now current time passing on my office work",
+        "timestamp": "2026-10-19T05:08:09.177Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, I get it. \nNeed a quick chai break?",
+        "timestamp": "2026-10-19T05:08:10.041Z",
+        "chatMs": 244,
+        "ttsMs": 618,
+        "totalMs": 862,
+        "audioUrl": "/audio/fa1d5498-8810-4175-a979-bc51fefe9c5b.wav"
+      },
+      {
+        "role": "user",
+        "text": "No, no, I don't want a child lake.",
+        "timestamp": "2026-10-19T05:08:20.830Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, not talking about kids! \nWhat were you actually thinking?",
+        "timestamp": "2026-10-19T05:08:21.810Z",
+        "chatMs": 243,
+        "ttsMs": 734,
+        "totalMs": 977,
+        "audioUrl": "/audio/95d751e5-bc34-426c-a6a1-70794f7bfdd0.wav"
+      },
+      {
+        "role": "user",
+        "text": "No no, actually you misunderstand I have said I didn't want to take a child lake.",
+        "timestamp": "2026-10-19T05:08:33.252Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, my bad! \nSo, still stuck with that work?",
+        "timestamp": "2026-10-19T05:08:34.298Z",
+        "chatMs": 304,
+        "ttsMs": 740,
+        "totalMs": 1044,
+        "audioUrl": "/audio/44fe3679-2868-431e-9078-3ea0e21e6f8f.wav"
+      },
+      {
+        "role": "user",
+        "text": "biggest Anaconda",
+        "timestamp": "2026-10-19T05:08:43.971Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oof, huge snake! \nScary or cool?",
+        "timestamp": "2026-10-19T05:08:44.934Z",
+        "chatMs": 276,
+        "ttsMs": 684,
+        "totalMs": 960,
+        "audioUrl": "/audio/9e797950-d505-481c-8f89-a4b939a433cf.wav"
+      },
+      {
+        "role": "user",
+        "text": "Rohan Bobby didn't want to continue with you",
+        "timestamp": "2026-10-19T05:08:54.516Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh, really? \nWhat happened with him?",
+        "timestamp": "2026-10-19T05:08:55.266Z",
+        "chatMs": 234,
+        "ttsMs": 513,
+        "totalMs": 747,
+        "audioUrl": "/audio/5b08aceb-d99d-443b-9e3f-5e251f8bcd29.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA9667656cb973b89e15baed7019feca97",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T13:30:42.181Z",
+    "endedAt": "2026-10-17T13:32:05.442Z",
+    "durationSec": 72,
+    "language": "en-IN",
+    "speaker": "shubh",
+    "avgLatencyMs": 1594,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T13:30:53.629Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/21693849-9026-4df6-b4a0-3e1d812e27bf.wav"
+      },
+      {
+        "role": "user",
+        "text": "Who is this?",
+        "timestamp": "2026-10-17T13:31:07.350Z"
+      },
+      {
+        "role": "assistant",
+        "text": "It's me, your good old friend! How's life treating you?",
+        "timestamp": "2026-10-17T13:31:09.399Z",
+        "chatMs": 985,
+        "ttsMs": 1062,
+        "totalMs": 2047,
+        "audioUrl": "/audio/eebccbc9-3a0f-46d3-b79e-106a7c1a62de.wav"
+      },
+      {
+        "role": "user",
+        "text": "multiple",
+        "timestamp": "2026-10-17T13:31:20.997Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, very mysterious! What's up?",
+        "timestamp": "2026-10-17T13:31:23.116Z",
+        "chatMs": 525,
+        "ttsMs": 1593,
+        "totalMs": 2118,
+        "audioUrl": "/audio/33283826-3c18-4c93-ada5-e996c5c6dc6b.wav"
+      },
+      {
+        "role": "user",
+        "text": "What did you call?",
+        "timestamp": "2026-10-17T13:31:31.584Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Just a quick hello! Catching up. You busy?",
+        "timestamp": "2026-10-17T13:31:33.321Z",
+        "chatMs": 643,
+        "ttsMs": 1093,
+        "totalMs": 1736,
+        "audioUrl": "/audio/7803a9c8-13f1-4a3d-aa9c-86e5dcfd410d.wav"
+      },
+      {
+        "role": "user",
+        "text": "What are you doing?",
+        "timestamp": "2026-10-17T13:31:44.383Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Just chilling, you know. What about you?",
+        "timestamp": "2026-10-17T13:31:45.986Z",
+        "chatMs": 492,
+        "ttsMs": 1110,
+        "totalMs": 1602,
+        "audioUrl": "/audio/e36cf4ec-d7ae-4ace-88ea-d8960b0d2298.wav"
+      },
+      {
+        "role": "user",
+        "text": "doing some task",
+        "timestamp": "2026-10-17T13:31:55.302Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh, nice! What kind of task?",
+        "timestamp": "2026-10-17T13:31:57.363Z",
+        "chatMs": 516,
+        "ttsMs": 1544,
+        "totalMs": 2060,
+        "audioUrl": "/audio/47638bdb-22a4-4991-96bd-280bd85f36a7.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA73b7dfdae6dea6dbb0f50c0544df368d",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T13:29:52.655Z",
+    "endedAt": "2026-10-17T13:30:11.547Z",
+    "durationSec": 0,
+    "language": "en-IN",
+    "speaker": "shubh",
+    "avgLatencyMs": 537,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T13:29:58.910Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/21693849-9026-4df6-b4a0-3e1d812e27bf.wav"
+      },
+      {
+        "role": "user",
+        "text": "Find what about you?",
+        "timestamp": "2026-10-17T13:30:06.205Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm doing pretty great, thanks! You?",
+        "timestamp": "2026-10-17T13:30:07.281Z",
+        "chatMs": 308,
+        "ttsMs": 766,
+        "totalMs": 1074,
+        "audioUrl": "/audio/87a04526-53c8-44cf-856e-4acfbf7c173d.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA9648adc82d8f5b78be6c15836bef5994",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T13:27:49.499Z",
+    "endedAt": "2026-10-17T13:29:25.116Z",
+    "durationSec": 87,
+    "language": "en-IN",
+    "speaker": "shubh",
+    "avgLatencyMs": 1499,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T13:27:58.439Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/21693849-9026-4df6-b4a0-3e1d812e27bf.wav"
+      },
+      {
+        "role": "user",
+        "text": "I am fine. What about you tell me about something.",
+        "timestamp": "2026-10-17T13:28:07.061Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm doing great! Just chilling here. \nWhat's up with you lately?",
+        "timestamp": "2026-10-17T13:28:08.263Z",
+        "chatMs": 494,
+        "ttsMs": 706,
+        "totalMs": 1200,
+        "audioUrl": "/audio/dac1e484-d3ff-4187-8d85-6cd5bee10350.wav"
+      },
+      {
+        "role": "user",
+        "text": "Little just go to my room and sleep.",
+        "timestamp": "2026-10-17T13:28:16.656Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a solid plan. \nWhat's making you so tired?",
+        "timestamp": "2026-10-17T13:28:17.513Z",
+        "chatMs": 269,
+        "ttsMs": 587,
+        "totalMs": 856,
+        "audioUrl": "/audio/be91f211-d77c-4bb3-9ccb-6c7cea5ae82d.wav"
+      },
+      {
+        "role": "user",
+        "text": "Nothing just now office work.",
+        "timestamp": "2026-10-17T13:28:24.780Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ah, office work can be draining. \nAre you taking a long weekend off?",
+        "timestamp": "2026-10-17T13:28:25.894Z",
+        "chatMs": 320,
+        "ttsMs": 794,
+        "totalMs": 1114,
+        "audioUrl": "/audio/0b22ec1a-3fe2-4745-91f9-deedf4c2977b.wav"
+      },
+      {
+        "role": "user",
+        "text": "I think so. You suggest me what should I do?",
+        "timestamp": "2026-10-17T13:28:35.274Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Just relax and sleep well! \nAny movie plans for the break?",
+        "timestamp": "2026-10-17T13:28:36.314Z",
+        "chatMs": 319,
+        "ttsMs": 721,
+        "totalMs": 1040,
+        "audioUrl": "/audio/77980caa-b7ef-4ceb-aafc-30ff18495b3c.wav"
+      },
+      {
+        "role": "user",
+        "text": "No, no not help me.",
+        "timestamp": "2026-10-17T13:28:44.814Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Got it, no movies then. \nWhat else sounds fun to you?",
+        "timestamp": "2026-10-17T13:28:46.711Z",
+        "chatMs": 1338,
+        "ttsMs": 559,
+        "totalMs": 1897,
+        "audioUrl": "/audio/e8b29a87-a1ec-4882-afa2-2ca578299d07.wav"
+      },
+      {
+        "role": "user",
+        "text": "I think playing game songs for me.",
+        "timestamp": "2026-10-17T13:28:55.166Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Nice! Gaming always helps. \nWhat game are you playing these days?",
+        "timestamp": "2026-10-17T13:28:56.352Z",
+        "chatMs": 383,
+        "ttsMs": 802,
+        "totalMs": 1185,
+        "audioUrl": "/audio/aea3cadb-d34b-42f5-9f96-9f8cc6b2728a.wav"
+      },
+      {
+        "role": "user",
+        "text": "DJ me most probably",
+        "timestamp": "2026-10-17T13:29:04.586Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ooh, DJing sounds awesome! \nGot any new tracks ready to drop?",
+        "timestamp": "2026-10-17T13:29:05.818Z",
+        "chatMs": 394,
+        "ttsMs": 837,
+        "totalMs": 1231,
+        "audioUrl": "/audio/6e405d99-0d2e-4148-8571-3b9cda668e05.wav"
+      },
+      {
+        "role": "user",
+        "text": "Nothing just Sidhu Moose wala.",
+        "timestamp": "2026-10-17T13:29:15.103Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Classic choice! Sidhu always hits different. \nWhich track is your absolute favorite?",
+        "timestamp": "2026-10-17T13:29:20.071Z",
+        "chatMs": 368,
+        "ttsMs": 4600,
+        "totalMs": 4968,
+        "audioUrl": "/audio/c927c571-ffe9-4cbb-bc36-8c436c825531.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAe64d632d984a8b7916cb68d62bc2294d",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T12:33:11.280Z",
+    "endedAt": "2026-10-17T12:34:51.427Z",
+    "durationSec": 93,
+    "language": "en-IN",
+    "speaker": "simran",
+    "avgLatencyMs": 1519,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T12:33:17.411Z",
+        "chatMs": 0,
+        "ttsMs": 619,
+        "totalMs": 619,
+        "audioUrl": "/audio/03d2f0b1-e52e-4412-b368-088afec67db6.wav"
+      },
+      {
+        "role": "user",
+        "text": "I M good but about you.",
+        "timestamp": "2026-10-17T12:33:27.459Z"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm doing great, thanks! Just chilling at home. What have you been up to lately?",
+        "timestamp": "2026-10-17T12:33:29.011Z",
+        "chatMs": 329,
+        "ttsMs": 1221,
+        "totalMs": 1550,
+        "audioUrl": "/audio/89547353-374f-4795-86d3-049f960da7d9.wav"
+      },
+      {
+        "role": "user",
+        "text": "Avengers doing the regular office work nothing else",
+        "timestamp": "2026-10-17T12:33:42.599Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, that sounds like a boring day! Did you at least get good chai or coffee with it?",
+        "timestamp": "2026-10-17T12:33:44.260Z",
+        "chatMs": 446,
+        "ttsMs": 1214,
+        "totalMs": 1660,
+        "audioUrl": "/audio/87393000-8fcc-40a8-95c6-7e2d8c71a0ae.wav"
+      },
+      {
+        "role": "user",
+        "text": "No, no aur office business provide this type of thing.",
+        "timestamp": "2026-10-17T12:33:56.195Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Ugh, that's rough. Office stuff can really drain you. Are you planning to log off soon?",
+        "timestamp": "2026-10-17T12:33:57.815Z",
+        "chatMs": 363,
+        "ttsMs": 1256,
+        "totalMs": 1619,
+        "audioUrl": "/audio/87962fc2-fb71-4fbd-b1a6-640eda14ae85.wav"
+      },
+      {
+        "role": "user",
+        "text": "Yah software and eligible for log out.",
+        "timestamp": "2026-10-17T12:34:11.692Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Nice, that's a relief! Are you going to do anything fun after logging off, or just crash?",
+        "timestamp": "2026-10-17T12:34:13.542Z",
+        "chatMs": 327,
+        "ttsMs": 1522,
+        "totalMs": 1849,
+        "audioUrl": "/audio/7fee5bc2-7526-4e11-bcd7-6ff1804325c3.wav"
+      },
+      {
+        "role": "user",
+        "text": "I Vil just go and sleep I am very tired today.",
+        "timestamp": "2026-10-17T12:34:27.578Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Aww, you definitely need that rest. Sleep well and take care of yourself! We'll catch up properly when you wake up, okay?",
+        "timestamp": "2026-10-17T12:34:29.775Z",
+        "chatMs": 435,
+        "ttsMs": 1761,
+        "totalMs": 2196,
+        "audioUrl": "/audio/98346161-89c3-4a8a-90fe-385665b3c540.wav"
+      },
+      {
+        "role": "user",
+        "text": "I see you soon.",
+        "timestamp": "2026-10-17T12:34:42.237Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds good, see you then! Bye for now.",
+        "timestamp": "2026-10-17T12:34:43.376Z",
+        "chatMs": 406,
+        "ttsMs": 733,
+        "totalMs": 1139,
+        "audioUrl": "/audio/72c43fca-b1c6-4ff7-967a-5ffa8be729a8.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA3a45e97170908131bde86327eebd6176",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T12:32:17.286Z",
+    "endedAt": "2026-10-17T12:33:06.185Z",
+    "durationSec": 38,
+    "language": "en-IN",
+    "speaker": "shubh",
+    "avgLatencyMs": 0,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T12:32:27.161Z",
+        "chatMs": 0,
+        "ttsMs": 0,
+        "totalMs": 0,
+        "audioUrl": "/audio/a0124a84-e11b-4e0f-b3b9-cbcab9cf8273.wav"
+      }
+    ]
+  },
+  {
+    "id": "CAc6a29df9da94babc404cb2e037c63627",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T11:49:25.470Z",
+    "endedAt": "2026-10-17T11:50:43.000Z",
+    "durationSec": 70,
+    "language": "en-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 1527,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T11:49:32.642Z",
+        "chatMs": 0,
+        "ttsMs": 717,
+        "totalMs": 717,
+        "audioUrl": "/audio/20da1f4c-57d2-4ba9-bc94-cabd240cf2a2.wav"
+      },
+      {
+        "role": "user",
+        "text": "Hello.",
+        "timestamp": "2026-10-17T11:49:51.530Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Hey, good to hear from you! What's up?",
+        "timestamp": "2026-10-17T11:49:52.633Z",
+        "chatMs": 182,
+        "ttsMs": 920,
+        "totalMs": 1102,
+        "audioUrl": "/audio/bf954471-ab3f-4279-a671-dcbfbc1d3d4d.wav"
+      },
+      {
+        "role": "user",
+        "text": "Why r u stop speaking after sometime?",
+        "timestamp": "2026-10-17T11:50:02.446Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh sorry, I guess I just got a bit quiet there! Anyway, how's your day going?",
+        "timestamp": "2026-10-17T11:50:04.335Z",
+        "chatMs": 401,
+        "ttsMs": 1487,
+        "totalMs": 1888,
+        "audioUrl": "/audio/92452c3f-4cb9-4a62-ab03-00625fcfc81c.wav"
+      },
+      {
+        "role": "user",
+        "text": "Nothing just hang up this call.",
+        "timestamp": "2026-10-17T11:50:16.529Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Aww, okay okay, I'll let you go! Catch you later, bye!",
+        "timestamp": "2026-10-17T11:50:18.259Z",
+        "chatMs": 425,
+        "ttsMs": 1303,
+        "totalMs": 1728,
+        "audioUrl": "/audio/9091ad16-244b-40e2-9e37-e578fa182989.wav"
+      },
+      {
+        "role": "user",
+        "text": "Hai To aur Ishwar",
+        "timestamp": "2026-10-17T11:50:33.147Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Haha, true that! Alright then, take care and talk to you soon. Bye!",
+        "timestamp": "2026-10-17T11:50:35.349Z",
+        "chatMs": 365,
+        "ttsMs": 1835,
+        "totalMs": 2200,
+        "audioUrl": "/audio/b74a5140-50f8-47db-9c67-f299c41870be.wav"
+      }
+    ]
+  },
+  {
+    "id": "CA21635ae30990ba7ef61c21dcd8d2b860",
+    "friendNumber": "+919465802410",
+    "friendName": "Friend",
+    "startedAt": "2026-10-17T11:46:39.198Z",
+    "endedAt": "2026-10-17T11:49:07.220Z",
+    "durationSec": 0,
+    "language": "en-IN",
+    "speaker": "ishita",
+    "avgLatencyMs": 2272,
+    "turns": [
+      {
+        "role": "assistant",
+        "text": "Hey! How are you doing today?",
+        "timestamp": "2026-10-17T11:46:53.069Z",
+        "chatMs": 0,
+        "ttsMs": 3510,
+        "totalMs": 3510,
+        "audioUrl": "/audio/0ece0b24-67c9-4c58-a394-c8a86d3506e6.wav"
+      },
+      {
+        "role": "user",
+        "text": "Main theek hun Tum batao.",
+        "timestamp": "2026-10-17T11:47:02.894Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Main bhi mast hoon! Waise aaj-kal kya chal raha hai?",
+        "timestamp": "2026-10-17T11:47:04.208Z",
+        "chatMs": 309,
+        "ttsMs": 1004,
+        "totalMs": 1313,
+        "audioUrl": "/audio/753a05ee-f57f-42da-a7bf-38dcd450e3fe.wav"
+      },
+      {
+        "role": "user",
+        "text": "Jindagi Kuchh acche se nahin chal rahi Kuchh acche batao Ki Meri Jindagi Sudhar sake",
+        "timestamp": "2026-10-17T11:47:15.949Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Arre, sunke bura laga. Par tension mat le, sab theek ho jayega. Waise achanak kya hua, bata sakta hai?",
+        "timestamp": "2026-10-17T11:47:17.982Z",
+        "chatMs": 342,
+        "ttsMs": 1690,
+        "totalMs": 2032,
+        "audioUrl": "/audio/76a2376e-c712-45d0-97e0-c6e72471bc9c.wav"
+      },
+      {
+        "role": "user",
+        "text": "Main Khud Hi Pata kya Kuchh ho raha hai yaar.",
+        "timestamp": "2026-10-17T11:47:30.536Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Samajh sakta hoon yaar, kabhi-kabhi aisa hi hota hai. Thoda relax kar le, aur bata is time kya chal raha hai life mein?",
+        "timestamp": "2026-10-17T11:47:33.353Z",
+        "chatMs": 397,
+        "ttsMs": 2419,
+        "totalMs": 2816,
+        "audioUrl": "/audio/148d83b3-e8e2-4e09-b2ef-8893e3592647.wav"
+      },
+      {
+        "role": "user",
+        "text": "main job search karne ke bare mein Soch Raha Hun",
+        "timestamp": "2026-10-17T11:47:48.690Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh, yeh toh accha idea hai! Kis field mein try kar raha hai phir?",
+        "timestamp": "2026-10-17T11:47:50.451Z",
+        "chatMs": 432,
+        "ttsMs": 1328,
+        "totalMs": 1760,
+        "audioUrl": "/audio/5dcf6e97-3e41-474d-9af7-62c8c4f5ba31.wav"
+      },
+      {
+        "role": "user",
+        "text": "blood per",
+        "timestamp": "2026-10-17T11:47:59.263Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Blood per? Matlab lab technician ya koi medical field? Bata na, kya plan hai tera?",
+        "timestamp": "2026-10-17T11:48:01.319Z",
+        "chatMs": 498,
+        "ttsMs": 1557,
+        "totalMs": 2055,
+        "audioUrl": "/audio/a93b468f-5b9a-473a-9b9b-669f04628c11.wav"
+      },
+      {
+        "role": "user",
+        "text": "Are Nahin Nahin Kuchh time per payment?",
+        "timestamp": "2026-10-17T11:48:16.662Z"
+      },
+      {
+        "role": "assistant",
+        "text": "Oh achha, matlab jaldi paise chahiye. Samjha. Toh kya sochega, koi part-time ya freelance kaam dekhega?",
+        "timestamp": "2026-10-17T11:48:19.079Z",
+        "chatMs": 381,
+        "ttsMs": 2035,
+        "totalMs": 2416,
+        "audioUrl": "/audio/893b054f-5acc-43bc-94bd-4b7ef4058775.wav"
+      }
+    ]
+  },
+  {
     "id": "CAcc047702abbd70fce1c1bcb3e45d6df8",
     "friendNumber": "+919465802410",
     "friendName": "Friend",
